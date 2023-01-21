@@ -4,6 +4,6 @@ O objetivo do repositório é documentar e fixar todo meu conhecimento adquirido
 The purpose of the repository is to document and fix all my knowledge acquired in RocketSeat Node.js, React and React Native course! I hope that in the future this repository will serve to show my progress and inspire other people to learn to program.
 
 # Separação do aprendizado
-** 01-fundamentos-nodejs
+## 01-fundamentos-nodejs
 A pasta da trilha 2023 '01-fundamentos-nodejs' tem conhecimentos sobre como construir uma API sem nenhum tipo de framework, fazendo na "mão". Em um desenvolvimento real iremos utilizar frameworks para facilitar o desenvolvimento... Fazer na mão é só para critério de conhecimento de como as coisas funcionam de baixo dos panos.
 
