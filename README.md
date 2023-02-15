@@ -9,3 +9,6 @@ A pasta da trilha 2023 '01-fundamentos-nodejs' tem conhecimentos sobre como cons
 
 ## FirstProject
 Na pasta FirstProject é o meu primeiro projeto em Nodejs! Ele foi essencial para fixar os conceitos básicos da linguagem JavaScript. Trata-se de uma API que simula um banco, ou seja, você consegue abrir uma conta, listar estrato por cliente, colocar saldo, retirar saldo e etc. Utilizei somente o Express para construi-la.
+
+## React
+Na pasta React vamos começar a dar os primeiros passos para entender a biblioteca
