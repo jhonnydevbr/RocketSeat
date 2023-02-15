@@ -12,3 +12,6 @@ Na pasta FirstProject é o meu primeiro projeto em Nodejs! Ele foi essencial par
 
 ## React
 Na pasta React vamos começar a dar os primeiros passos para entender a biblioteca
+
+## SecondProject
+Na pasta SecondProject estará documentado como desenvolver uma API RESTful, mas dessa vez utilizando o Fastify, Knex, TypeScript e outras ferramentas para auxiliar durante o desenvolvimento.
