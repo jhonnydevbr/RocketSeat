@@ -1,2 +1,4 @@
 # Ignore a pasta node_modules
 node_modules
+# Ignore o arquivo de banco de dados
+tmp/app.db
