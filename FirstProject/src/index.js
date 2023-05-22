@@ -35,6 +35,14 @@ function getBalance(statement){
     return balance;
 }
 
+app.get("/", (req, res) => {
+
+
+    return "Seja bem-vindo ao Banco Central! Aqui será a página inicial"
+   
+});
+
+
 app.post("/account", (req, res) => {
 
     const { cpf, name } = req.body;
