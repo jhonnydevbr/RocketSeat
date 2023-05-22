@@ -8,7 +8,7 @@ export const config: Knex.Config = {
 
     useNullAsDefault: true,
     migrations:{
-        extension: 'ts',
+        extension: 'ts',asa
         directory: './db/migrations',
     },
 }
