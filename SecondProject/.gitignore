@@ -2,3 +2,4 @@
 node_modules
 # Ignore o arquivo de banco de dados
 db/app.db
+.env
